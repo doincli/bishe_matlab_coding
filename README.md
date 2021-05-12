@@ -1,1 +1,6 @@
 # bishe_matlab_coding
+毕设用的图像编解码的matlab程序
+myhuffuman 文字是自己编写的函数实现
+huffman 是用的库函数实现的
+jiema 就是huffman的解码
+没带图像，在matlab里面修改一下图像的路径即可
