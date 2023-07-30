@@ -5,6 +5,8 @@ for i=1:M
 
 fprintf(fid,'%d,',enco(i,1));
 
+
+
 end
 
 fclose(fid);
